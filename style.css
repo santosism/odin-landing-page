@@ -1,0 +1,70 @@
+.header{
+    display: flex; 
+    font-size: 28px; 
+}
+
+.headerlogo{
+    font-size: 24px; 
+    color: #F9FAF8; 
+}
+
+img{
+    max-width: 100vh;
+    max-height: 50vh; 
+    display: flex; 
+    justify-content: flex-end; 
+
+}
+
+.hero{
+    background-color: #1F2937; 
+}
+
+.heromaintext{
+    font-size: 48px; 
+    font-weight: 800; 
+    color: #F9FAF8; 
+}
+
+.herosecondarytext{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+
+.informationheader{
+    font-size: 36px; 
+    font-weight: 800; 
+    background-color: #1F2937; 
+    color: white; 
+}
+
+.quote{
+    background-color: #E5E7EB; 
+}
+
+.quotetext{
+    color: #1F2937; 
+    font-size: 36px; 
+    font-style: italic; 
+    font-weight: bold; 
+}
+
+button{
+    background-color: #3882F6; 
+}
+
+.calltoaction{
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: flex-end; 
+}
+
+footer{
+    background-color: #1F2937; 
+    color: white; 
+}
